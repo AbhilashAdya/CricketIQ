@@ -1,0 +1,24 @@
+# Ignore virtual environments
+venv/
+.env/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Optionally ignore raw data
+data/raw/
