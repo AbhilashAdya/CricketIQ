@@ -10,8 +10,6 @@ __pycache__/
 # Notebook checkpoints
 .ipynb_checkpoints/
 
-# VSCode settings
-.vscode/
 
 # macOS system files
 .DS_Store
@@ -20,5 +18,3 @@ __pycache__/
 *.log
 *.tmp
 
-# Optionally ignore raw data
-data/raw/
